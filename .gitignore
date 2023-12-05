@@ -2,7 +2,6 @@ buzzfeed/angular.json
 buzzfeed/package-lock.json
 buzzfeed/package.json
 buzzfeed/README.md
-buzzfeed/server.ts
 buzzfeed/tsconfig.app.json
 buzzfeed/tsconfig.json
 buzzfeed/tsconfig.spec.json
@@ -10,9 +9,6 @@ buzzfeed/.vscode/extensions.json
 buzzfeed/.vscode/launch.json
 buzzfeed/.vscode/tasks.json
 buzzfeed/src/favicon.ico
-buzzfeed/src/index.html
-buzzfeed/src/main.server.ts
-buzzfeed/src/main.ts
 buzzfeed/src/assets/.gitkeep
 buzzfeed/.vscode/extensions.json
 buzzfeed/.vscode/launch.json
